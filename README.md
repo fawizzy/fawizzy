@@ -6,7 +6,7 @@ Experienced Backend Developer | Open Source Enthusiast | Continuous Learner
 
  📍 Ibadan, Nigeria   
  📧 [Email](mailto:odoulafawaz@gmail.com).   
- 🌐 [LinkedIn](https://www.linkedin.com/in/fawaz-oduola-66a2a81a7/).   
+ 🌐 [LinkedIn](https://www.linkedin.com/in/fawaz-oduola/).   
  📝 [Blog](ibadandev.hashnode.dev/).
 
 ## About Me

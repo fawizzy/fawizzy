@@ -51,7 +51,7 @@ Check out some of my recent blog posts:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through email or connect with me on LinkedIn. Let's collaborate, learn, and build awesome things together!
 
-![GitHub Followers](https://img.shields.io/github/followers/fawizzy?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/fawizzy?style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ibadandev?style=social)
 
 <!--
